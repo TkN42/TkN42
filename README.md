@@ -26,7 +26,7 @@ About Me
 
 🔧   Visual Studio 
 
-
+<br>
 
 💬 Connect with Me = LinkedIn-Email
 
