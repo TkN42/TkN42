@@ -13,6 +13,7 @@ About Me
 ✍️   Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 
+
 🛠  Tech Stack
 
 💻   Python Java Php C C++ C# 
@@ -26,10 +27,8 @@ About Me
 🔧   Visual Studio 
 
 
-💬 Connect with Me
 
-LinkedIn 
-Email
+💬 Connect with Me = LinkedIn-Email
 
 <!--
 **TkN42/TkN42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
