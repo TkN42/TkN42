@@ -12,7 +12,7 @@ About Me
 
 ✍️   Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-
+<br>
 
 🛠  Tech Stack
 
