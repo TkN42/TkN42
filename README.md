@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 About Me
-
+<br>
 ⚡   FULL-STACK DEVELOPER
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
