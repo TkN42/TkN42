@@ -32,7 +32,7 @@ About Me
 
 <br>
 
-💬 Connect with Me = LinkedIn-Email
+💬 Connect with Me = LinkedIn - Email
 
 <!--
 **TkN42/TkN42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
